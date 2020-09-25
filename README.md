@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
  <h1>Mother’s Love for a Boy</h1>
@@ -22,5 +22,3 @@
     </td>
   </tr>
   </table>
-</body>
-</html>
