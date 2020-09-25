@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-   <meta charset=:"UTF-8">
-    <h1>Mother’s Love for a Boy</h1>
+ <h1>Mother’s Love for a Boy</h1>
     </head>
   <body style="background: orange;">
 <img scr="https://www.moralstories.org/wp-content/uploads/2016/10/mother-love.jpg" alt="mother_love">
