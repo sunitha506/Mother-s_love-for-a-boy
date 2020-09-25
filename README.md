@@ -7,7 +7,7 @@
   <body style="background: orange;">
   <img src="https://www.moralstories.org/wp-content/uploads/2017/04/unconditional-love-moral-story.jpg" alt="blind_man">
   
-  <p>A man married a beautiful girl.  He loved her very much.  One day she developed a skin disease.<br>Slowly she started to lose her beauty.  It so happened that one day her husband left for a tour.  While returning he met with an accident and lost his eyesight.<br>However, their married life continued as usual.  But as days passed she lost her beauty gradually.<br>Blind husband did not know this and there was not any difference in their married life.  He continued to love her and she also loved him very much.<br> One day she died.  Her death brought him a great sorrow.He finished all her last rites and wanted to leave that town.
+  <p>A man married a beautiful girl.  He loved her very much.  One day she developed a skin disease.Slowly she started to lose her beauty.  It so happened that one day her husband left for a tour.  While returning he met with an accident and lost his eyesight.<br>However, their married life continued as usual.  But as days passed she lost her beauty gradually.Blind husband did not know this and there was not any difference in their married life.  He continued to love her and she also loved him very much. One day she died.  Her death brought him a great sorrow.He finished all her last rites and wanted to leave that town.
   
   <h3><i>One night(blind man)</i> </h3>
   <div>
