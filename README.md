@@ -4,7 +4,7 @@
  <h1>Mother’s Love for a Boy</h1>
     </head>
   <body style="background: orange;">
-<img src="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="blind_man">
+<img src="https://www.moralstories.org/wp-content/uploads/2016/10/mother-love.jpg" alt="blind_man">
     <h3>Thomas-Mother</h3>
   <p><i>One day Thomas Edison came home and gave a paper to his mother. He told her, “My teacher gave this paper to me and told me to only give it to my mother.” His mother’s eyes were tearful as she read the letter out loud to her child, “Your son is a genius. This school is too small for him and doesn’t have enough good teachers for training him. Please teach him yourself.”</i></p>
   
